@@ -1,0 +1,21 @@
+{
+  "name": "matltem",
+  "version": "1.0.0",
+  "description": "This is vanila node js server side application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "Vanila",
+    "NodeJs",
+    "Postgress"
+  ],
+  "author": "Aizize Abuduuaini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "pg": "^7.8.0"
+  }
+}
